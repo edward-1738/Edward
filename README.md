@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Crow%20Bot%20💛&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20𝐀𝐬𝐭𝐚%20Bot%20💛&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
 ![Bienvenida Épica](https://github.com/WillZek/WillZek/blob/main/Crow.svg)
 
@@ -253,4 +253,4 @@ href="https://github.com/WillZek"><img src="https://github.com/WillZek.png" widt
 
 </details>
 
-> **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ m᥆᥆ᥒ𝖿᥆rᥴᥱ 𝗍ᥱᥲm ❀](https://whatsapp.com/channel/0029VaxkClI1NCrW4BX5rn3g)**
+> **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ 𝐀𝐬𝐭𝐚 𝐛𝐨𝐭❀](https://whatsapp.com/channel/0029VaxkClI1NCrW4BX5rn3g)**
